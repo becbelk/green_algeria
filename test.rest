@@ -1,0 +1,5 @@
+# GET http://localhost:4004/
+# GET http://localhost:4004/home
+GET http://localhost:4004/dash-board
+# GET http://localhost:4004/blala
+# GET http://localhost:4004/admin
